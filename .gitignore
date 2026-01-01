@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+*.sqlite
+*.db
+.streamlit/
+.vscode/
+.DS_Store
